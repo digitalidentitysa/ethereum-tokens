@@ -1,0 +1,11 @@
+{
+  "1": {
+    "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0": {
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "totalSupply": "10000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "MATIC",
+      "name": "Matic Network Token"
+    }
+  }
+}
