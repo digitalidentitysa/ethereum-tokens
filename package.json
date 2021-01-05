@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/digitalidentitysa/ethereum-tokens#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "glob": "^7.1.2",
     "json-stable-stringify": "^1.0.1",
     "lodash.merge": "^4.6.0",
